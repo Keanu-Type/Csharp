@@ -1,0 +1,15 @@
+D:\5-Programming_Course\Csharp\5_method\bin\Debug\net7.0\5_method.exe
+D:\5-Programming_Course\Csharp\5_method\bin\Debug\net7.0\5_method.deps.json
+D:\5-Programming_Course\Csharp\5_method\bin\Debug\net7.0\5_method.runtimeconfig.json
+D:\5-Programming_Course\Csharp\5_method\bin\Debug\net7.0\5_method.dll
+D:\5-Programming_Course\Csharp\5_method\bin\Debug\net7.0\5_method.pdb
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.csproj.AssemblyReference.cache
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.AssemblyInfoInputs.cache
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.AssemblyInfo.cs
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.csproj.CoreCompileInputs.cache
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.dll
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\refint\5_method.dll
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.pdb
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\5_method.genruntimeconfig.cache
+D:\5-Programming_Course\Csharp\5_method\obj\Debug\net7.0\ref\5_method.dll

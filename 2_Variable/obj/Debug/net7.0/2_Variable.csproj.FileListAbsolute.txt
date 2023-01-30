@@ -1,0 +1,15 @@
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.csproj.AssemblyReference.cache
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.AssemblyInfoInputs.cache
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.AssemblyInfo.cs
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.csproj.CoreCompileInputs.cache
+D:\5-Programming_Course\Csharp\2_Variable\bin\Debug\net7.0\2_Variable.exe
+D:\5-Programming_Course\Csharp\2_Variable\bin\Debug\net7.0\2_Variable.deps.json
+D:\5-Programming_Course\Csharp\2_Variable\bin\Debug\net7.0\2_Variable.runtimeconfig.json
+D:\5-Programming_Course\Csharp\2_Variable\bin\Debug\net7.0\2_Variable.dll
+D:\5-Programming_Course\Csharp\2_Variable\bin\Debug\net7.0\2_Variable.pdb
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.dll
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\refint\2_Variable.dll
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.pdb
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\2_Variable.genruntimeconfig.cache
+D:\5-Programming_Course\Csharp\2_Variable\obj\Debug\net7.0\ref\2_Variable.dll

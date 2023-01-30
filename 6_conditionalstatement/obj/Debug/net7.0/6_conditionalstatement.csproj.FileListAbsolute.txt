@@ -1,0 +1,15 @@
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.csproj.AssemblyReference.cache
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.AssemblyInfoInputs.cache
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.AssemblyInfo.cs
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.csproj.CoreCompileInputs.cache
+D:\5-Programming_Course\Csharp\6_conditionalstatement\bin\Debug\net7.0\6_conditionalstatement.exe
+D:\5-Programming_Course\Csharp\6_conditionalstatement\bin\Debug\net7.0\6_conditionalstatement.deps.json
+D:\5-Programming_Course\Csharp\6_conditionalstatement\bin\Debug\net7.0\6_conditionalstatement.runtimeconfig.json
+D:\5-Programming_Course\Csharp\6_conditionalstatement\bin\Debug\net7.0\6_conditionalstatement.dll
+D:\5-Programming_Course\Csharp\6_conditionalstatement\bin\Debug\net7.0\6_conditionalstatement.pdb
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.dll
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\refint\6_conditionalstatement.dll
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.pdb
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\6_conditionalstatement.genruntimeconfig.cache
+D:\5-Programming_Course\Csharp\6_conditionalstatement\obj\Debug\net7.0\ref\6_conditionalstatement.dll

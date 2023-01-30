@@ -1,0 +1,15 @@
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.csproj.AssemblyReference.cache
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.AssemblyInfoInputs.cache
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.AssemblyInfo.cs
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.csproj.CoreCompileInputs.cache
+D:\5-Programming_Course\Csharp\3_input\bin\Debug\net7.0\3_input.exe
+D:\5-Programming_Course\Csharp\3_input\bin\Debug\net7.0\3_input.deps.json
+D:\5-Programming_Course\Csharp\3_input\bin\Debug\net7.0\3_input.runtimeconfig.json
+D:\5-Programming_Course\Csharp\3_input\bin\Debug\net7.0\3_input.dll
+D:\5-Programming_Course\Csharp\3_input\bin\Debug\net7.0\3_input.pdb
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.dll
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\refint\3_input.dll
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.pdb
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\3_input.genruntimeconfig.cache
+D:\5-Programming_Course\Csharp\3_input\obj\Debug\net7.0\ref\3_input.dll

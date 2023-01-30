@@ -1,0 +1,15 @@
+D:\5-Programming_Course\Csharp\7_exception\bin\Debug\net7.0\7_exception.exe
+D:\5-Programming_Course\Csharp\7_exception\bin\Debug\net7.0\7_exception.deps.json
+D:\5-Programming_Course\Csharp\7_exception\bin\Debug\net7.0\7_exception.runtimeconfig.json
+D:\5-Programming_Course\Csharp\7_exception\bin\Debug\net7.0\7_exception.dll
+D:\5-Programming_Course\Csharp\7_exception\bin\Debug\net7.0\7_exception.pdb
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.csproj.AssemblyReference.cache
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.AssemblyInfoInputs.cache
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.AssemblyInfo.cs
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.csproj.CoreCompileInputs.cache
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.dll
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\refint\7_exception.dll
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.pdb
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\7_exception.genruntimeconfig.cache
+D:\5-Programming_Course\Csharp\7_exception\obj\Debug\net7.0\ref\7_exception.dll
